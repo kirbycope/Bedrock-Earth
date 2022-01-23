@@ -2,6 +2,12 @@
     "header": {
         "name": "Earth",
         "description": "Bedrock Earth",
+        "base_game_version": [
+            1,
+            18,
+            0
+        ],
+        "lock_template_options": true,
         "version": [
             1,
             0,
