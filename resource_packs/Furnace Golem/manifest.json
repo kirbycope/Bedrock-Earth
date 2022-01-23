@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Furnace Golem",
+		"description": "Furnace Golem Resource Pack",
+		"uuid": "0c88ff3a-e78f-f9dd-14e4-ef838e959905",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Kirbycope"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.0.6"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Furnace Golem",
+			"type": "resources",
+			"uuid": "b499ef6c-34b4-e19e-04f2-f9b8677f37da",
+			"version": [1, 0, 0]
+		}
+	]
+}

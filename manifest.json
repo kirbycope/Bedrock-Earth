@@ -1,0 +1,24 @@
+{
+    "header": {
+        "name": "Earth",
+        "description": "Bedrock Earth",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "uuid": "14f7f84d-5d4a-4696-bd59-a5be0f382c2f"
+    },
+    "modules": [
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "type": "world_template",
+            "uuid": "082617c1-00b5-418d-b51b-3abedad8f941"
+        }
+    ],
+    "format_version": 2
+}

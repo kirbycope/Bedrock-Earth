@@ -1,0 +1,97 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.cluckshroom",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.25,
+				"visible_bounds_offset": [0, 0.875, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 8, 0],
+					"cubes": [
+						{"origin": [-3, 4, -3], "size": [6, 8, 6], "pivot": [0, 8, 0], "rotation": [90, 0, 0], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "shroom2",
+					"parent": "body",
+					"pivot": [-6, 8, 1],
+					"rotation": [0, 90, 0],
+					"cubes": [
+						{"origin": [-10, 11, 3], "size": [3, 5, 3], "pivot": [-7, 4, 6], "rotation": [0, 90, 0], "uv": [21, 31]},
+						{"origin": [-7, 11, 6], "size": [3, 5, 3], "pivot": [-7, 4, 6], "rotation": [0, 90, 0], "uv": [9, 31]}
+					]
+				},
+				{
+					"name": "head",
+					"pivot": [0, 9, -4],
+					"cubes": [
+						{"origin": [-2, 9, -6], "size": [4, 6, 3], "uv": [22, 11]}
+					],
+					"locators": {
+						"lead": [0, 9, -4]
+					}
+				},
+				{
+					"name": "comb",
+					"parent": "head",
+					"pivot": [0, 9, -4],
+					"cubes": [
+						{"origin": [-1, 9, -7], "size": [2, 2, 2], "uv": [28, 20]}
+					]
+				},
+				{
+					"name": "beak",
+					"parent": "head",
+					"pivot": [0, 9, -4],
+					"cubes": [
+						{"origin": [-2, 11, -8], "size": [4, 2, 2], "uv": [8, 14]}
+					]
+				},
+				{
+					"name": "shroom",
+					"parent": "head",
+					"pivot": [0, 9, -4],
+					"cubes": [
+						{"origin": [-3, 15, -7], "size": [3, 4, 3], "uv": [21, 31]},
+						{"origin": [0, 15, -4], "size": [3, 4, 3], "uv": [9, 31]}
+					]
+				},
+				{
+					"name": "leg0",
+					"pivot": [-2, 5, 1],
+					"cubes": [
+						{"origin": [-3, 0, -2], "size": [3, 5, 3], "uv": [24, 0]}
+					]
+				},
+				{
+					"name": "leg1",
+					"pivot": [1, 5, 1],
+					"cubes": [
+						{"origin": [0, 0, -2], "size": [3, 5, 3], "uv": [0, 24]}
+					]
+				},
+				{
+					"name": "wing0",
+					"pivot": [-3, 11, 0],
+					"cubes": [
+						{"origin": [-4, 7, -3], "size": [1, 4, 6], "uv": [14, 14]}
+					]
+				},
+				{
+					"name": "wing1",
+					"pivot": [3, 11, 0],
+					"cubes": [
+						{"origin": [3, 7, -3], "size": [1, 4, 6], "uv": [0, 14]}
+					]
+				}
+			]
+		}
+	]
+}

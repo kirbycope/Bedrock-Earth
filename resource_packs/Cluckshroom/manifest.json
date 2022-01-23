@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Cluckshroom",
+		"description": "Cluckshroom Resource Pack",
+		"uuid": "71987140-0300-9995-4a92-de2b04571b01",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Kirbycope"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.0.6"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Cluckshroom",
+			"type": "resources",
+			"uuid": "feedd868-5b93-7440-7d22-28eb25bc9fa0",
+			"version": [1, 0, 0]
+		}
+	]
+}

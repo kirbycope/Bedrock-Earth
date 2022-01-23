@@ -1,0 +1,17 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:spawn_rules": {
+        "description": {
+            "identifier": "cope:cluckshroom",
+            "population_control": "animal"
+        },
+        "conditions": [
+            {
+                "minecraft:biome_filter": {
+                    "test": "has_biome_tag",
+                    "value": "mooshroom_island"
+                }
+            }
+        ]
+    }
+}
