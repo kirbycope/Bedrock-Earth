@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "My attack cow behavior pack Add-On!",
+        "name": "My Behavior Pack",
+        "uuid": "b82c312d-f044-4e46-b826-8f1597f64758",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "My First Add-On!",
+            "type": "data",
+            "uuid": "f1f5dab2-c428-4697-ac0d-9cf3880d4a22",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
