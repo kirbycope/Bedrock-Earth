@@ -5,4 +5,5 @@ Minecraft Earth was an augmented reality sandbox game developed by Mojang Studio
 
 ## Installation
 1. Download the [.mctemplate](https://github.com/kirbycope/Bedrock-Earth/raw/main/Bedrock-Earth.mctemplate)
+1. Double-click the downloaded file to install and launch Minecraft
 1. Start a new save/world and select the imported template
