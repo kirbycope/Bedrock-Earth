@@ -1,4 +1,4 @@
-![World Icon](/world_icon.jpeg)
+[![YouTube Short](/bedrock-earth.png)](https://www.youtube.com/watch?v=vFGYWKiRhl8)
 
 # Bedrock-Earth
 Minecraft Earth was an augmented reality sandbox game developed by Mojang Studios and published by Xbox Game Studios.
