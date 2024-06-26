@@ -7,5 +7,6 @@ I modified the models and behaviors of the mobs my son suggested (chicken and ir
 
 ## Installation
 1. Download the [.mctemplate](https://github.com/kirbycope/Bedrock-Earth/raw/main/Bedrock-Earth.mctemplate)
-1. Double-click the downloaded file to install and launch Minecraft
-1. Start a new save/world and select the imported template
+1. Double-click the mctemplate file
+1. Create a New World using the template
+    - "Play" > "Create New"  > Scroll down to "Imported Templates" (Select "See More" if necessary)
