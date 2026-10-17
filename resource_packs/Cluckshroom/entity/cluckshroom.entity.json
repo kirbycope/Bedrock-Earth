@@ -30,7 +30,8 @@
 					{
 						"baby_transform": "query.is_baby"
 					}
-				]
+				],
+				"pre_animation": ["variable.wing_flap = ((math.sin(query.wing_flap_position * 57.3) + 1) * query.wing_flap_speed);"]
 			},
 			"render_controllers": ["controller.render.chicken"],
 			"spawn_egg": {
