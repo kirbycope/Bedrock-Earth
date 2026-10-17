@@ -1,35 +1,21 @@
 {
-    "format_version": 2,
-    "header": {
-        "name": "Earth",
-        "description": "Earth Behavior Pack",
-        "uuid": "b82c312d-f044-4e46-b826-8f1597f64758",
-        "version": [
-            1,
-            0,
-            0
-        ],
-        "min_engine_version": [
-            1,
-            18,
-            0
-        ]
-    },
-    "metadata": {
-        "authors": [
-            "Kirbycope"
-        ]
-    },
-    "modules": [
-        {
-            "description": "Behavior",
-            "type": "data",
-            "uuid": "f1f5dab2-c428-4697-ac0d-9cf3880d4a22",
-            "version": [
-                1,
-                0,
-                0
-            ]
-        }
-    ]
+	"format_version": 2,
+	"header": {
+		"name": "Earth",
+		"description": "Earth Behavior Pack",
+		"uuid": "b82c312d-f044-4e46-b826-8f1597f64758",
+		"version": [1, 1, 0],
+		"min_engine_version": [1, 26, 0]
+	},
+	"metadata": {
+		"authors": ["Kirbycope"]
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"type": "data",
+			"uuid": "f1f5dab2-c428-4697-ac0d-9cf3880d4a22",
+			"version": [1, 1, 0]
+		}
+	]
 }

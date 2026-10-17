@@ -6,10 +6,13 @@ Minecraft Earth was an augmented reality sandbox game developed by Mojang Studio
 I modified the models and behaviors of the mobs my son suggested (chicken and iron_golem). My wife did the textures. My son and I made the map. I also wrote a small datapack that gives you the spawn eggs if it is your first time joining the map.
 
 ## Installation
-1. Download the [.mctemplate](https://github.com/kirbycope/Bedrock-Earth/raw/main/Bedrock-Earth.mctemplate)
+1. Download the [.mctemplate](https://github.com/kirbycope/Bedrock-Earth/releases/latest/download/Bedrock-Earth.mctemplate)
 1. Double-click the mctemplate file
 1. Create a New World using the template
     - "Play" > "Create New"  > Scroll down to "Imported Templates" (Select "See More" if necessary)
+
+## Requirements
+Minecraft Bedrock 1.26.0 or newer, with no experiments.
 
 ## Releasing
 Pushing a tag that starts with `v` (for example `git tag v1.0.0 && git push origin v1.0.0`) runs the Release workflow in `.github/workflows/release.yml`, which builds the world template and attaches `Bedrock-Earth.mctemplate` to a GitHub Release.
