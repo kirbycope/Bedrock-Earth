@@ -1,7 +1,7 @@
 {
     "header": {
         "name": "Earth",
-        "description": "Bedrock Earth",
+        "description": "Bedrock Earth 1.1.2",
         "base_game_version": [
             1,
             18,
@@ -10,8 +10,8 @@
         "lock_template_options": true,
         "version": [
             1,
-            0,
-            0
+            1,
+            2
         ],
         "uuid": "14f7f84d-5d4a-4696-bd59-a5be0f382c2f"
     },
@@ -19,8 +19,8 @@
         {
             "version": [
                 1,
-                0,
-                0
+                1,
+                2
             ],
             "type": "world_template",
             "uuid": "082617c1-00b5-418d-b51b-3abedad8f941"

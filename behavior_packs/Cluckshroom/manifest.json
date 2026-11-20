@@ -2,9 +2,9 @@
 	"format_version": 2,
 	"header": {
 		"name": "Cluckshroom",
-		"description": "Cluckshroom Behavior Pack",
+		"description": "Cluckshroom Behavior Pack 1.1.2",
 		"uuid": "e0808db7-d7a5-9697-5ce3-53cf353ee1b4",
-		"version": [1, 1, 1],
+		"version": [1, 1, 2],
 		"min_engine_version": [1, 26, 0]
 	},
 	"metadata": {
@@ -16,7 +16,7 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [1, 1, 1],
+			"version": [1, 1, 2],
 			"uuid": "95e13d72-ed6d-8768-a82f-a5003c5fd5bd",
 			"type": "data"
 		}
@@ -24,7 +24,7 @@
 	"dependencies": [
 		{
 			"uuid": "71987140-0300-9995-4a92-de2b04571b01",
-			"version": [1, 1, 1]
+			"version": [1, 1, 2]
 		}
 	]
 }
