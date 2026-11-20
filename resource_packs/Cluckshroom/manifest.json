@@ -2,9 +2,9 @@
 	"format_version": 2,
 	"header": {
 		"name": "Cluckshroom",
-		"description": "Cluckshroom Resource Pack",
+		"description": "Cluckshroom Resource Pack 1.1.2",
 		"uuid": "71987140-0300-9995-4a92-de2b04571b01",
-		"version": [1, 1, 1],
+		"version": [1, 1, 2],
 		"min_engine_version": [1, 26, 0]
 	},
 	"metadata": {
@@ -18,7 +18,7 @@
 			"description": "Cluckshroom",
 			"type": "resources",
 			"uuid": "feedd868-5b93-7440-7d22-28eb25bc9fa0",
-			"version": [1, 1, 1]
+			"version": [1, 1, 2]
 		}
 	]
 }
